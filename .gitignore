@@ -1,0 +1,15 @@
+# Data is downloaded by src/load_510k.py — don't commit it (it's hundreds of MB)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
