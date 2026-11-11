@@ -1,4 +1,4 @@
-# Data is downloaded by src/load_510k.py — don't commit it (it's hundreds of MB)
+# Data is downloaded by data_import.ipynb and import_adverse_events.py. Do not commit it (it is several GB)
 data/raw/
 data/processed/
 
