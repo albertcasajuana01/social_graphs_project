@@ -1,0 +1,202 @@
+product_code,technology,fda_name,example_brand
+DSQ,blood_pump_or_life_support,Ventricular (assist) bypass,HEARTWARE VENTRICULAR ASSIST SYSTEM - PUMP
+LNR,blood_pump_or_life_support,"System, photopheresis, extracorporeal",CELLEX PHOTOPHERESIS SYSTEM
+LOZ,blood_pump_or_life_support,Artificial heart,SYNCARDIA FREEDOM DRIVER
+LSZ,blood_pump_or_life_support,"VENTILATOR, HIGH FREQUENCY",3100 HIGH FREQUENCY OSCILLATING VENTILATOR (HFOV)
+OZD,blood_pump_or_life_support,Temporary non-roller type left heart support blood pump,IMPELLA CP
+PYX,blood_pump_or_life_support,Temporary non-roller type right heart support blood pump,IMPELLA RP
+QQK,blood_pump_or_life_support,Normothermic machine perfusion system for the preservation of donor livers prior to transplantation,ORGANOX METRA
+MDS,body_sensor,"Sensor, glucose, invasive",CARELINK PERSONAL MMT-7333
+MOM,body_sensor,"System, hemodynamic, implantable",HF SENSOR DELIVERY SYSTEM
+PQF,body_sensor,"Sensor, glucose, invasive, non-adjunctive",TRANSMITTER MMT-7841ZN GST5G US
+PZE,body_sensor,"Sensor, glucose, invasive, non-adjunctive, factory-calibrated, user-initiated",LIBRE SENSOR FREESTYLE
+QBJ,body_sensor,CONTINUOUS GLUCOSE MONITOR,DEXCOM G6 CONTINUOUS GLUCOSE MONITORING SYSTEM
+QCD,body_sensor,"Continuous glucose monitor, implanted, adjunctive use",EVERSENSE SENSOR
+QHJ,body_sensor,"Sensor, glucose, implanted, non-adjunctive use",EVERSENSE SENSOR
+SBA,body_sensor,"IMPLANTABLE GLUCOSE MONITORING SYSTEM, SENSOR",EVERSENSE SENSOR
+SFI,body_sensor,"Sensor, Glucose, Invasive, Component of automated insulin delivery system",SENSOR MMT-5120A SIMPLERA SYNC 5PK US
+DRF,catheter_or_procedure_tool,"CATHETER, ELECTRODE RECORDING, OR PROBE, ELECTRODE RECORDING",NAVISTAR¿ ELECTROPHYSIOLOGY CATHETER
+DYB,catheter_or_procedure_tool,"INTRODUCER, CATHETER (INTRODUCER)","KIT, 14FR INTRODUCER, 13CM&25CM, STERILE"
+LOX,catheter_or_procedure_tool,"Catheters, transluminal coronary angioplasty, percutaneous",MAVERICK
+LPB,catheter_or_procedure_tool,Cardiac ablation percutaneous catheter,THERMOCOOL® SMART TOUCH® SF BI-DIRECTIONAL NAVIGATION CATHETER
+LPC,catheter_or_procedure_tool,"DEVICE, ANGIOPLASTY, LASER, CORONARY",ELCA CORONARY LASER ATHERECTOMY CATHETER
+MCX,catheter_or_procedure_tool,"CATHETER, CORONARY, ATHERECTOMY",DIAMONDBACK 360 CORONARY ORBITAL ATHERECTOMY SYSTEM
+MFA,catheter_or_procedure_tool,"DEVICE, REMOVAL, PACEMAKER ELECTRODE, PERCUTANEOUS",GLIDELIGHT LASER SHEATH
+MGB,catheter_or_procedure_tool,"Device, hemostasis, vascular",PERCLOSE PROSTYLE SUTURE-MEDIATED CLOSURE AND REPAIR SYSTEM
+NWX,catheter_or_procedure_tool,"Catheter, percutaneous transluminal coronary angioplasty (ptca), cutting/scoring",WOLVERINE CORONARY CUTTING BALLOON
+OAD,catheter_or_procedure_tool,"catheter, percutaneous, cardiac ablation, for treatment of atrial flutter",INTELLANAV MIFI OPEN-IRRIGATED
+OAE,catheter_or_procedure_tool,"Catheter, percutaneous, cardiac ablation, for treatment of atrial fibrillation",ARCTIC FRONT ADVANCE PRO¿ CARDIAC CRYOABLATION CATHETER
+ONU,catheter_or_procedure_tool,Drug-Eluting Peripheral Transluminal Angioplasty Catheter,IN.PACT ADMIRAL PACLITAXEL-ELUTING PTA BALLOON CATHETER
+OOB,catheter_or_procedure_tool,Drug-eluting percutaneous transluminal coronary angioplasty catheter,AGENT?
+PRC,catheter_or_procedure_tool,Drug-coated peripheral transluminal angioplasty catheter,IN.PACT AV ACCESS
+QMG,catheter_or_procedure_tool,Shockwave intravascular lithotripsy system,SHOCKWAVE C2 CORONARY INTRAVASCULAR LITHOTRIPSY (IVL) CATHETER
+QZI,catheter_or_procedure_tool,Percutaneous Cardiac Ablation Catheter for Treatment of Atrial Fibrillation with Irreversible Electroporation,PULSESELECT
+LZS,energy_based_therapy,Excimer laser system,WAVELIGHT EX500 EXCIMER LASER
+MNB,energy_based_therapy,"Device, thermal ablation, endometrial",NOVASURE
+OCM,energy_based_therapy,"Surgical cardiac ablation device, for treatment of atrial fibrillation",ATRICURE SYNERGY ABLATION SYSTEM
+POH,energy_based_therapy,MR-guided focused ultrasound system,EXABLATE 4000
+LOF,external_electrical_device,"Stimulator, bone growth, non-invasive",BIOMET EBI BONE HEALING SYSTEM
+MKJ,external_electrical_device,Automated external defibrillators (non-wearable),X SERIES
+MVK,external_electrical_device,Wearable automated external defibrillator,LIFEVEST WCD 4000 SYSTEM
+NSA,external_electrical_device,Over-the-counter automated external defibrillator,HEARTSTART
+NZK,external_electrical_device,"Stimulator, low electric field, tumor treatment",OPTUNE GIO
+MUE,imaging,"Full field digital, system, x-ray, mammographic",SELENIA DIMENSIONS MAMMOGRAPHY SYSTEM
+OTE,imaging,Digital breast tomosynthesis,"SELENIA DIMENSIONS MAMMOGRAPHY SYSTEMS, 3D"
+DTB,implanted_lead,permanent pacemaker Electrode,CAPSUREFIX NOVUS LEAD MRI SURESCAN
+NVN,implanted_lead,Drug eluting permanent right ventricular (RV) or right atrial (RA) pacemaker electrodes,TENDRIL STS
+NVY,implanted_lead,Permanent defibrillator electrodes,"DURATA STS OPTIM ACTIVE FIXATION, DF-4 CONNECTOR"
+OJX,implanted_lead,Drug eluting permanent left ventricular (lv) pacemaker electrode,ATTAIN PERFORMA MRI SURESCAN
+DSR,implanted_pulse_generator,"Stimulator, carotid sinus nerve",BAROSTIM NEO2
+DXY,implanted_pulse_generator,implantable pacemaker Pulse-generator,"ENDURITY PACEMAKER, DR, MRI RESTRICTED"
+EZW,implanted_pulse_generator,"Stimulator, electrical, implantable, for incontinence",INTERSTIM II
+GZB,implanted_pulse_generator,"STIMULATOR, SPINAL-CORD, IMPLANTED (PAIN RELIEF)",VECTRIS SURESCAN
+LGW,implanted_pulse_generator,"Stimulator, spinal-cord, totally implanted for pain relief",INTELLIS
+LWO,implanted_pulse_generator,"Pulse-generator, single chamber, sensor driven, implantable","2525T MICRONY II, SR+, PKGD/STER"
+LWP,implanted_pulse_generator,"Implantable pulse generator, pacemaker (non-CRT)",ASSURITY MRI
+LWS,implanted_pulse_generator,Implantable cardioverter defibrillator (non-CRT),SPRINT QUATTRO SECURE S MRI SURESCAN
+LYJ,implanted_pulse_generator,"Stimulator, autonomic nerve, implanted for epilepsy",PULSE GEN MODEL 1000
+MBX,implanted_pulse_generator,"Stimulator, thalamic, epilepsy, implanted",PERCEPT
+MCM,implanted_pulse_generator,"Implant, cochlear",HIRES¿ ULTRA IMPLANT
+MHY,implanted_pulse_generator,"Stimulator, electrical, implanted, for parkinsonian tremor",ACTIVA
+MNQ,implanted_pulse_generator,"Stimulator, hypoglossal nerve, implanted, apnea",INSPIRE MODEL 3028 IPG
+MPV,implanted_pulse_generator,"Implant, hearing, active, middle ear, partially implanted",VIBRANT SOUNDBRIDGE
+MRM,implanted_pulse_generator,"DEFIBRILLATOR, IMPLANTABLE, DUAL-CHAMBER",IPERIA 7 DR-T DF4 PROMRI
+MUZ,implanted_pulse_generator,"Stimulator, autonomic nerve, implanted (depression)",SYMMETRY GEN MODEL 8103
+NHL,implanted_pulse_generator,"Stimulator, electrical, implanted, for parkinsonian symptoms",VERCISE CARTESIA
+NIK,implanted_pulse_generator,"Defibrillator, automatic implantable cardioverter, with cardiac resynchronization (CRT-D)",QUADRA ASSURA MP ICD
+NKE,implanted_pulse_generator,"Pulse generator, pacemaker, implantable, with cardiac resynchronization (CRT-P)",PERCEPTA QUAD CRT-P MRI SURESCAN
+NVZ,implanted_pulse_generator,"Pulse generator, permanent, implantable",AZURE XT DR MRI SURESCAN
+OAF,implanted_pulse_generator,"Implant, hearing, active, middle ear, totally implanted",ESTEEM
+PFN,implanted_pulse_generator,Implanted brain stimulator for epilepsy,NEUROPACE RNS SYSTEM
+PFO,implanted_pulse_generator,BCI BONE CONDUCTION IMPLANT,BONEBRIDGE
+PGQ,implanted_pulse_generator,Cochlear implant with combined electrical stimulation and acoustic amplification,NUCLEUS HYBRID L24
+PJS,implanted_pulse_generator,"Stimulator, electrical, implanted, for essential tremor",ACTIVA
+PMP,implanted_pulse_generator,Dorsal root ganglion stimulator for pain relief,"KIT IMPLANTABLE SLIM TIP LEAD, 50CM"
+PNJ,implanted_pulse_generator,Leadless pacemaker,MICRA AV
+QFV,implanted_pulse_generator,Implantable pulse generator,OPTIMIZER SMART MINI
+QLK,implanted_pulse_generator,"Stimulator, neuromuscular, lower back muscles, totally implanted for pain relief",REACTIV8
+SEG,implanted_pulse_generator,Leadless Cardiac Resynchronization Therapy (CRT),WISE CRT SYSTEM
+FRN,infusion_pump,"PUMP, INFUSION",RESERVOIR 3ML MMT-332A
+LKK,infusion_pump,"Pump, infusion, implanted, programmable",SYNCHROMED II
+LZG,infusion_pump,"PUMP, INFUSION, INSULIN",MMT-712 PARADIGM INSULIN PUMP
+OYC,infusion_pump,"Pump, infusion, insulin, to be used with invasive glucose sensor",T:SLIM G5 SYSTEM
+OZO,infusion_pump,"Automated insulin dosing , threshold suspend",T:SLIM X2 INSULIN PUMP WITH BASAL-IQ TECHNOLOGY
+OZP,infusion_pump,"Automated insulin dosing device system, single hormonal control",MINIMED 780G US SYSTEM BLE CONNECT 3.0 MG/DL
+QFG,infusion_pump,ALTERNATE CONTROLLER ENABLED INFUSION PUMP,T:SLIM X2 INSULIN PUMP WITH INTEROPERABLE TECHNOLOGY
+KGG,injectable_material,tissue adhesive for use in embolization of brain arteriovenous malformations,UNK LIQUID EMBOLIC
+LMH,injectable_material,"Implant, dermal, for aesthetic use",JUVEDERM VOLUMA XC/LIDO (VOLUME UNKNOWN)
+LNM,injectable_material,"AGENT, BULKING, INJECTABLE FOR GASTRO-UROLOGY USE",DEFLUX INJECTABLE GEL
+LPO,injectable_material,Gases used within eye to place pressure on detached retina,ISPAN PERFLUOROPROPANE (C3F8) GAS
+LWL,injectable_material,"Fluid, intraocular",SILIKON 1000 OIL
+LZP,injectable_material,"AID, SURGICAL, VISCOELASTIC",VISCOAT OPHTHALMIC VISCOSURGICAL DEVICE
+MFE,injectable_material,"Agent, injectable, embolic",APOLLO
+MOZ,injectable_material,"Acid, hyaluronic, intraarticular",EUFLEXXA
+PJQ,injectable_material,"Agent, occluding, vascular, permanent",VENA SEAL CLOSURE SYSTEM
+JDI,joint_or_bone_implant,S-ROM HIP SYSTEM : HIP FEMORAL STEM,SROM STM STD 36+12L 13X18
+JWH,joint_or_bone_implant,ATTUNE IMPLANT : KNEE FEMORAL,"PFC*SIGMA/OV/DOME PAT 3PEG,38"
+KWA,joint_or_bone_implant,TRILOCK HIP STEM : HIP FEMORAL STEM,TRI-LOCK BPS SZ 3 HI OFFSET
+KWZ,joint_or_bone_implant,"Prosthesis, hip, constrained, cemented or uncemented, metal/polymer",DURALOC CONST LINER 50X28
+LPH,joint_or_bone_implant,"PROSTHESIS, HIP, SEMI-CONSTRAINED, METAL/POLYMER, POROUS UNCEMENTED",PINNACLE SECTOR II CUP 52MM
+LZD,joint_or_bone_implant,"Joint, temporomandibular, implant",TMJ BILATERAL IMPLANTS
+LZO,joint_or_bone_implant,ARTICULEZE HEAD (12/14 TAPER) : HIP CERAMIC FEMORAL HEADS,DELTA CER HEAD 12/14 36MM +1.5
+MBH,joint_or_bone_implant,ATTUNE CEMENTLESS IMPLANTS : KNEE FEMORAL,ATUN FEM SLV M/L 30MM FULL POR
+MJO,joint_or_bone_implant,"Prosthesis, intervertebral disc",M6-C
+MRA,joint_or_bone_implant,"Prosthesis, hip, semi-constrained, metal/ceramic/ceramic/metal, cemented or uncemented",PINN STRAIGHT CUP IMPACTOR
+NJL,joint_or_bone_implant,"Prosthesis, knee, patellofemorotibial, semi-constrained, metal/polymer, mobile bearing",ATTUNE RP TIB BASE SZ 4 CEM
+NQO,joint_or_bone_implant,"Prosthesis, spinous process spacer/plate",SUPERION INDIRECT DECOMPRESSION SYSTEM
+NRA,joint_or_bone_implant,"Prosthesis, knee, femorotibial, unicompartmental, semi-constrained, metal/polymer, mobile bearing",OXF TWIN-PEG CMNTD FEM MD PMA
+NTG,joint_or_bone_implant,"Prosthesis, ankle, uncemented, non-constrained",UNKNOWN STAR TIBIAL COMPONENT
+NXT,joint_or_bone_implant,"Prosthesis, hip, semi-constrained, metal/metal, resurfacing",ACETLR CUP HAP 56MM W/ IMPTR
+OIY,joint_or_bone_implant,ATTUNE IMPLANT : KNEE FEMORAL,ATTUNE MEDIAL DOME PAT 38MM
+PJY,joint_or_bone_implant,Osseoanchored prostheses for the rehabilitation of transfemoral amputees,OPRA IMPLANT SYSTEM
+PNW,joint_or_bone_implant,"Prosthesis, metatarsophalangeal joint cartilage replacement implant",CARTIVA IMPLANT 10MM
+QES,joint_or_bone_implant,Reherniation reduction device,BARRICAID ACD
+SFA,joint_or_bone_implant,"Prosthesis, finger, semi-constrained, metal/polymer",TOUCH® - CMC1 PROSTHESIS
+LOK,lab_test,"KIT, TEST, ALPHA-FETOPROTEIN FOR NEURAL TUBE DEFECTS",ATELLICA IM ALPHA FETOPROTEIN (AFP)
+LOM,lab_test,"Test, Hepatitis B (B Antigen, B Surface Antigen, Be Antigen)",ELECSYS HBSAG II
+LTJ,lab_test,PROSTATE-SPECIFIC ANTIGEN (PSA) FOR MANAGEMENT OF PROSTATE CANCERS,ELECSYS TOTAL PSA
+MAQ,lab_test,"KIT, DNA DETECTION, HUMAN PAPILLOMAVIRUS",ALINITY M HR HPV AMPLIFICATION REAGENT KIT
+MKQ,lab_test,"Processor, cervical cytology slide, automated",BD TOTALYS SLIDEPREP
+MTF,lab_test,"Total, prostate specific antigen (noncomplexed & complexed) for detection of prostate cancer",ELECSYS TOTAL PSA
+MTG,lab_test,"Test, prostate specific antigen, free, (noncomplexed) to distinguish prostate cancer from benign conditions",ELECSYS FREE PSA
+MZO,lab_test,"Assay, enzyme linked immunosorbent, hepatitis c virus",ELECSYS ANTI-HCV II
+NBW,lab_test,BLOOD GLUCOSE TEST STRIPS,CONTOUR NEXT
+OOI,lab_test,REAL TIME NUCLEIC ACID AMPLIFICATION SYSTEM,ALINITY M SYSTEM
+OWD,lab_test,Somatic gene mutation detection system,COBAS® EGFR MUTATION TEST V2
+QRF,lab_test,Multi-analyte test system with algorithmic analysis for detection of prostate cancer,4KSCORE TEST
+HQL,lens,intraocular lens,TECNIS SIMPLICITY
+KYB,lens,"LENS, GUIDE, INTRAOCULAR",ACRYSOF IQ SINGLEPIECE IOL WITH ULTRASERT DELIVERY SYSTEM
+LPL,lens,"Lenses, soft contact, daily wear",1-DAY ACUVUE® MOIST®
+LPM,lens,"Lenses, soft contact, extended wear",ACUVUE® OASYS®
+LPN,lens,"Accessories, soft lens products",OXYSEPT
+MFK,lens,"Lens, multifocal intraocular",TECNIS IOL
+MJP,lens,"LENS, INTRAOCULAR, TORIC OPTICS",TECNIS IOL
+MTA,lens,"Lens, intraocular, phakic",IMPLANTABLE COLLAMER LENS (ICL)
+NAA,lens,"Lens, intraocular, accommodative",CRYSTALENS ACCOMMODATING IOL
+POE,lens,Extended depth of focus intraocular lens,ACRYSOF IQ VIVITY EXTENDED VISION IOL
+PZK,lens,Light adjustable lens (LAL) and light delivery device (LDD),LIGHT ADJUSTABLE LENS (LAL)
+QCB,lens,Phakic toric intraocular lens,IMPLANTABLE COLLAMER LENS (ICL)
+EZY,mechanical_or_hydraulic_implant,"Device, incontinence, mechanical/hydraulic",AMS 800 URINARY CONTROL SYSTEM WITH INHIBIZONE
+FHW,mechanical_or_hydraulic_implant,"Device, impotence, mechanical/hydraulic",AMS INFLATABLE PENILE PROSTHESIS WITH INHIBIZONE
+JCW,mechanical_or_hydraulic_implant,"Prosthesis, penis, inflatable",AMS 700 CX MS PUMP
+LEI,mechanical_or_hydraulic_implant,"IMPLANT, ANTI-GASTROESOPHAGEAL REFLUX",UNK LINX MAGNETIC IMPLANT
+LTI,mechanical_or_hydraulic_implant,"IMPLANT, INTRAGASTRIC FOR MORBID OBESITY",LAP-BAND SYSTEM
+DSI,programmer_or_software,"DETECTOR AND ALARM, ARRHYTHMIA",PATIENT CONNECTOR
+DTC,programmer_or_software,"ANALYZER, PACEMAKER GENERATOR FUNCTION",CARELINK SMARTSYNC BASE
+KRG,programmer_or_software,"Programmer, pacemaker",CARELINK PROGRAMMER
+OSR,programmer_or_software,Pacemaker/icd/crt non-implanted components,CARELINK SMARTSYNC COMMON APP IOS
+OUG,programmer_or_software,MEDICAL DEVICE DATA SYSTEM,SFTWR MMT-6121 FOTA ANDROID OUS/US
+FAF,soft_tissue_implant,"Prosthesis, testicular",TOROSA SALINE-FILLED TESTICULAR PROSTHESIS
+FTR,soft_tissue_implant,"Prosthesis, breast, noninflatable, internal, silicone gel-filled",MENTOR MEMORYGEL BREAST IMPLANT
+FWM,soft_tissue_implant,"Prosthesis, breast, inflatable, internal, saline",STYLE 68 SALINE FILLED BREAST IMPLANT
+FGE,stent_graft_or_occluder,"STENTS, DRAINS AND DILATORS FOR THE BILIARY DUCTS",PROTEGE EVERFLEX SELF-EXPANDING STENT SYSTEM LONG
+HHS,stent_graft_or_occluder,Transcervical contraceptive tubal occlusion device,ESSURE
+LXA,stent_graft_or_occluder,Tissue graft of 6mm and greater,ARTEGRAFT
+MAE,stent_graft_or_occluder,"OCCLUDER, PATENT DUCTUS, ARTERIOSUS",AMPLATZER DUCT OCCLUDER
+MAF,stent_graft_or_occluder,"STENT, CORONARY",MULTI-LINK 8
+MIH,stent_graft_or_occluder,"SYSTEM, ENDOVASCULAR GRAFT, AORTIC ANEURYSM TREATMENT",GORE® EXCLUDER® AAA ENDOPROSTHESIS
+MIR,stent_graft_or_occluder,"SHUNT, PORTOSYSTEMIC, ENDOPROSTHESIS",GORE® VIATORR® TIPS ENDOPROSTHESIS WITH CONTROLLED EXPANSION
+MLV,stent_graft_or_occluder,Transcatheter septal occluder,AMPLATZER SEPTAL OCCLUDER
+NGV,stent_graft_or_occluder,"System, appendage closure, left atrial",AMPLATZER AMULET
+NIM,stent_graft_or_occluder,"Stent, carotid",PROTEGE RX CAROTID STENT SYSTEM
+NIN,stent_graft_or_occluder,"STENT, RENAL",RX HERCULINK ELITE STENT SYSTEM
+NIO,stent_graft_or_occluder,"STENT, ILIAC",OMNILINK ELITE PERIPHERAL STENT SYSTEM
+NIP,stent_graft_or_occluder,"STENT, SUPERFICIAL FEMORAL ARTERY",SUPERA SELF-EXPANDING STENT SYSTEM
+NIQ,stent_graft_or_occluder,Coronary drug-eluting stent,RESOLUTE ONYX RX
+NIU,stent_graft_or_occluder,"Stent, superficial femoral artery, drug-eluting",ELUVIA DRUG-ELUTING VASCULAR STENT SYSTEM
+NJE,stent_graft_or_occluder,"STENT, INTRACRANIAL NEUROVASCULAR",NEUROFORM ATLAS 3.0MM X 21MM NO TIP - CE
+NXW,stent_graft_or_occluder,"Scaffold, infrapopliteal, absorbable",ESPRIT¿
+OGO,stent_graft_or_occluder,Intraocular pressure lowering implant,ISTENT INJECT W TRABECULAR MICRO BYPASS SYSTEM
+OPR,stent_graft_or_occluder,Intrasaccular Flow Disruption Device,WEB SL
+OUT,stent_graft_or_occluder,Intracranial aneurysm flow diverter,PIPELINE FLEX W/SHIELD TECHNOLOGY
+OZG,stent_graft_or_occluder,Transcatheter septal occluder (atrial),FIGULLA FLEX II ASD OCCLUDER
+PFV,stent_graft_or_occluder,"System, endovascular graft, arteriovenous (AV) dialysis access circuit stenosis treatment",FLUENCY PLUS VASCULAR STENT GRAFT
+PNY,stent_graft_or_occluder,Absorbable coronary drug-eluting stent,ABSORB BIORESORBABLE VASCULAR SCAFFOLD SYSTEM
+PRL,stent_graft_or_occluder,"Iliac covered stent, arterial",GORE® VIABAHN® VBX BALLOON EXPANDABLE ENDOPROSTHESIS
+QAN,stent_graft_or_occluder,"Stent, iliac vein",VENOVO VENOUS STENT
+QCA,stent_graft_or_occluder,Intracranial coil-assist stent,LVIS D
+QSK,stent_graft_or_occluder,"Hybrid stent graft, thoracic aortic lesion treatment",THORAFLEX HYBRID
+QZK,stent_graft_or_occluder,Endovascular system for treatment of thoracoabdominal and pararenal aortic lesions,GORE® EXCLUDER® THORACOABDOMINAL BRANCH ENDOPROSTHESIS
+GAM,surgical_material,"Suture, absorbable, synthetic, polyglycolic acid",STRATAFIX SPIRAL MONOCRYL PLUS UNKNOWN
+GAW,surgical_material,"Suture, nonabsorbable, synthetic, polypropylene",GORE-TEX® SUTURE
+LMF,surgical_material,"Agent, absorbable hemostatic, collagen based",SURGIFLO¿ HAEMOSTATIC MATRIX
+LMG,surgical_material,"Agent, absorbable hemostatic, non-collagen based",SURGICEL POWDER USA - ABSORBABLE HEMOSTATIC PWDR
+LOD,surgical_material,BONE CEMENT,DEPUY CMW 2 20G
+MBS,surgical_material,"Filler, bone void, non-osteoinduction",I-FACTOR FLEX FR
+MCN,surgical_material,"Barrier, absorbable, adhesion",GYNECARE INTERCEED 5INX6IN
+MDD,surgical_material,"Device, dermal replacement","IDRT, UNKNOWN"
+MUQ,surgical_material,"Glue, surgical, arteries",BIOGLUE - UNKNOWN CONFIGURATION
+NBE,surgical_material,"Sealant, polymerizing",PROGEL PLEURAL AIR LEAK SEALANT
+NEK,surgical_material,"Filler, recombinant human bone morphogenetic protein, collagen scaffold with metal prosthesis, osteoinduction",INFUSE BONE GRAFT
+NEW,surgical_material,"Suture, surgical, absorbable, polydioxanone",PDS II POLYDIOXANONE SUTURE UNKNOWN PRODUCT
+NQR,surgical_material,"Sealant, dural",DURASEAL DURAL SEALANT SYSTEM 5ML US BOX OF 5
+DYE,valve_or_valve_repair,replacement Heart-valve,CARPENTIER-EDWARDS PERIMOUNT MAGNA EASE PERICARDIAL BIOPROSTHESIS
+LWQ,valve_or_valve_repair,"HEART-VALVE, MECHANICAL",REGENT HEART VALVE WITH FLEX CUFF
+LWR,valve_or_valve_repair,"heart-valve, non-allograft tissue",EDWARDS INSPIRIS RESILIA AORTIC VALVE
+NJK,valve_or_valve_repair,"Valve, pulmonary",ZEPHYR ENDOBRONCHIAL VALVE (EBV)
+NKM,valve_or_valve_repair,Mitral valve repair devices,MITRACLIP G4 CLIP DELIVERY SYSTEM
+NPS,valve_or_valve_repair,"Tricuspid valve repair device, percutaneously delivered",TRICLIP G4 SYSTEM
+NPT,valve_or_valve_repair,"Aortic valve, prosthesis, percutaneously delivered",EVOLUT PRO PLUS VALVE
+NPU,valve_or_valve_repair,"Prosthesis, mitral valve, percutaneously delivered",EDWARDS SAPIEN 3 TRANSCATHETER HEART VALVE
+NPV,valve_or_valve_repair,Pulmonary valve prosthesis percutaneously delivered,MELODY TRANSCATHETER PULMONARY VALVE
+NPW,valve_or_valve_repair,Percutaneously Delivered Prostheses and Tricuspid Valves,EVOQUE TRICUSPID VALVE REPLACEMENT SYSTEM
